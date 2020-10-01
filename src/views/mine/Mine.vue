@@ -17,7 +17,7 @@
                     <div style="color: #F5F5F5" class="headImg-Wrapper">
                         <img src="./images/ycy.jpg">
                         <div class="personInfo">
-                            <span>钟信泼</span>
+                            <span>钟信泼qq23131</span>
                             <span>微信号:mc1831519928</span>
                         </div>
                     </div>
